@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MvvmKoinDS</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_id">ID: </string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_releaseDate">Release Date: </string>
+    <string name="msg_saved">Movie added to favourites</string>
+    <string name="msg_removed">Movie removed from favourites</string>
+    <string name="msg_no_internet">No internet connection</string>
+    <string name="msg_no_data">No data available</string>
+
+    <string name="uiTvClickLink"><u>Click link to view full-sized image:</u></string>
+    <string name="ui_movie_id">ID</string>
+    <string name="ui_movie_language">Movie Language</string>
+    <string name="ui_movie_rating">Movie Rating</string>
+    <string name="my_favourites">My Favourites</string>
+</resources>
